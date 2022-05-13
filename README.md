@@ -1,6 +1,7 @@
 # Andrada Iorgulescu
 ## MEDI 481 - The Sonic Experience
 ## Final Project : MySampler
+[![MySamplerThumbnail.png](https://github.com/andraiorgules/MySampler/blob/main/MySamplerThumbnail.png)(https://youtu.be/LtkMCZv4_aw)
 
 ## Sources Used
 ###### [1] [JUCE Documentation](https://docs.juce.com/master/index.html)
