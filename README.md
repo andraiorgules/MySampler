@@ -25,3 +25,4 @@ A Sampler VST that I made using the JUCE framework. This is the first VST I have
 ###### [10] [JUCE FileChooser Class Reference](https://docs.juce.com/master/classFileChooser.html)
 ###### [11] [JUCE Slider Class Reference](https://docs.juce.com/master/classSlider.html)
 ###### [12] [Youtube Build A Sampler VST Tutorials by TheAudioProgrammer](https://youtube.com/playlist?list=PLrACIjSt9ge-SH78GmExKiDBMsAlhKLWc)
+###### [13] [JUCE Tutorials](https://juce.com/learn/tutorials)
