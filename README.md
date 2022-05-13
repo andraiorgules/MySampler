@@ -6,6 +6,12 @@ A Sampler VST that I made using the JUCE framework. This is the first VST I have
 [![MySampler](https://github.com/andraiorgules/MySampler/blob/main/assets/MySampler/MySamplerThumbnail.png)](https://youtu.be/LtkMCZv4_aw)
 ###### Please Click The Image To Watch A Demo On Youtube
 
+## Description 
+
+## Creation Process
+
+## Downloading
+
 ## Sources Used
 ###### [1] [JUCE Documentation](https://docs.juce.com/master/index.html)
 ###### [2] [JUCE Value Tree Class Reference](https://docs.juce.com/master/classValueTree.html)
