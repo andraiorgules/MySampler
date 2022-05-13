@@ -11,7 +11,7 @@ This Sampler plugin is very easy to use. First, locate the sound files you would
 
 ## Creation Process
 
-## Downloading
+## Download and Install
 
 ## Sources Used
 ###### [1] [JUCE Documentation](https://docs.juce.com/master/index.html)
