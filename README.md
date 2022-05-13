@@ -2,6 +2,7 @@
 ## MEDI 481 - The Sonic Experience
 ## Final Project : MySampler
 [![MySampler](https://github.com/andraiorgules/MySampler/blob/main/assets/MySampler/MySamplerThumbnail.png)](https://youtu.be/LtkMCZv4_aw)
+###### Please Click The Image To Watch A Demo On Youtube
 
 ## Sources Used
 ###### [1] [JUCE Documentation](https://docs.juce.com/master/index.html)
