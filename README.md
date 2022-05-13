@@ -14,3 +14,4 @@
 ###### [9] [JUCE Synthesiser Class Reference](https://docs.juce.com/master/classSynthesiser.html)
 ###### [10] [JUCE FileChooser Class Reference](https://docs.juce.com/master/classFileChooser.html)
 ###### [11] [JUCE Slider Class Reference](https://docs.juce.com/master/classSlider.html)
+###### [12] [Youtube Build A Sampler VST Tutorials by TheAudioProgrammer](https://youtube.com/playlist?list=PLrACIjSt9ge-SH78GmExKiDBMsAlhKLWc)
