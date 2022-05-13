@@ -1,6 +1,8 @@
 # Andrada Iorgulescu
 ## MEDI 481 - The Sonic Experience
 ## Final Project : MySampler
+A Sampler VST that I made using the JUCE framework. This is the first VST I have ever created, as well as my first time using JUCE and C++.
+
 [![MySampler](https://github.com/andraiorgules/MySampler/blob/main/assets/MySampler/MySamplerThumbnail.png)](https://youtu.be/LtkMCZv4_aw)
 ###### Please Click The Image To Watch A Demo On Youtube
 
