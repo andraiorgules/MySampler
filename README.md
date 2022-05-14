@@ -12,7 +12,14 @@ This Sampler plugin is very easy to use. First, locate the sound files you would
 ## Download and Install
 [Google Drive: Download Link](https://drive.google.com/file/d/1MCXEP2hkpr97wLykN4hC5ITmEDYpOp_d/view?usp=sharing)
 
-Clicking on the link above will take you to my Google Drive, where you can download a .zip file containing the "MySampler" installation folder. After you unzip the file, go into the "build" folder and click on the "MySampler.pkg" file. This will install the necessary components into the correct directories on your computer so that the VST can be used in your DAW.
+Clicking on the link above will take you to my Google Drive, where you can download a .zip file containing the "MySampler" installation folder. 
+
+- MAC
+- 
+After you unzip the file, go into the "build" folder and click on the "MySampler.pkg" file. This will install the necessary components into the correct directories on your computer so that the VST can be used in your DAW.
+
+-WINDOWS
+
 
 ## Sources Used
 ###### [1] [JUCE Documentation](https://docs.juce.com/master/index.html)
