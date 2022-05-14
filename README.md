@@ -18,6 +18,7 @@ Clicking on the link above will take you to my Google Drive, where you can downl
 After you unzip the file, go into the "build" folder and click on the "MySampler.pkg" file. This will install the necessary components into the correct directories on your computer so that the VST can be used in your DAW. Going into the "Release" folder will lead you to an application called "MySampler" - this is the standalone plugin which you can use outside of your DAW.
 #### WINDOWS
 After you unzip the file, go into the "Release" folder and look for the 'MySampler.component", "MySampler.vst3", and "libMySampler.a" files. Move these files into C:\Program Files\Common Files\VST3 for use in your DAW. The "MySampler" application is the standalone plugin. 
+#### I have also included the complete JUCE project folder titled "MySampler", which you can run in the Projucer to compile the project locally on your own computer.
 
 
 ## Sources Used
