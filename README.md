@@ -14,11 +14,11 @@ This Sampler plugin is very easy to use. First, locate the sound files you would
 
 Clicking on the link above will take you to my Google Drive, where you can download a .zip file containing the "MySampler" installation folder. 
 
-- MAC
+-MAC-
 
 After you unzip the file, go into the "build" folder and click on the "MySampler.pkg" file. This will install the necessary components into the correct directories on your computer so that the VST can be used in your DAW.
 
--WINDOWS
+-WINDOWS-
 
 
 ## Sources Used
